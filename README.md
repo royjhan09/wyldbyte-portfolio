@@ -44,7 +44,7 @@ All screenshots use made-up data. They were taken by the project's own scripted 
 
 More in [docs/product.md](docs/product.md).
 
-## How it was built: honestly
+## How it was built
 
 **I built Wyldbyte with Claude Code (Anthropic's AI coding agent) as the main implementer. Claude wrote almost all of the code.**
 

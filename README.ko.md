@@ -44,7 +44,7 @@ Wyldbyte는 만들고 싶은 소프트웨어 아이디어는 있지만 개발자
 
 자세한 내용은 [docs/product.ko.md](docs/product.ko.md).
 
-## 만든 방법: 솔직하게
+## 만든 방법
 
 **Wyldbyte는 Claude Code(Anthropic의 AI 코딩 에이전트)를 주 개발자로 두고 만들었습니다. 코드는 거의 전부 Claude가 썼습니다.**
 
