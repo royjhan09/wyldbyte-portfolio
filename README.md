@@ -4,7 +4,7 @@
 
 [한국어](README.ko.md) · [Product decisions](docs/product.md) · [How it was built](docs/how-it-was-built.md) · [Architecture](docs/architecture.md)
 
-> The source code is private. Wyldbyte is becoming a commercial product. This repository shows what it does, the decisions behind it, and how it was built. Code access for hiring purposes is available on request.
+> The source code is private.
 
 ---
 
