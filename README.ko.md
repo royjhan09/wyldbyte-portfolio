@@ -4,7 +4,7 @@
 
 [English](README.md) · [제품 결정](docs/product.ko.md) · [만든 방법](docs/how-it-was-built.ko.md) · [구조](docs/architecture.ko.md)
 
-> 소스 코드는 비공개입니다. Wyldbyte는 상용 제품으로 준비 중이라, 이 저장소는 앱이 하는 일, 그 뒤의 결정, 만든 방법을 보여 줍니다. 채용 검토를 위한 코드 열람은 요청하시면 가능합니다.
+> 소스 코드는 비공개입니다.
 
 ---
 
